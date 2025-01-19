@@ -4,3 +4,4 @@ name: CI
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
+  workflow_dispatch:
